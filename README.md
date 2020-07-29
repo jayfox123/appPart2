@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-(http://audiokit.io/examples/playgrounds.jpg)](http://audiokit.io/playgrounds/)
+[(http://audiokit.io/examples/playgrounds.jpg)](http://audiokit.io/playgrounds/)
 
 This project is a starting point for a Flutter application.
 
